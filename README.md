@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo identificar los mejores lugares para abrir 200
 
 ## Instrucciones para la Revisión
 
-He subido mi proyecto a GitHub y me encantaría recibir tus comentarios. Puedes revisar el análisis en el archivo `mi_proyecto.ipynb`. Aquí está el enlace al repositorio:
+He subido mi proyecto a GitHub y me encantaría recibir tus comentarios. Puedes revisar el análisis en el archivo `sprint11.ipynb`. Aquí está el enlace al repositorio:
 
 [Revisar Proyecto en GitHub](https://github.com/<tu_usuario>/<nombre_repositorio>)
 
