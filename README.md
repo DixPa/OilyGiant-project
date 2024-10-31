@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo identificar los mejores lugares para abrir 200
 
 ## Contenido del Proyecto
 
-- **`mi_proyecto.ipynb`**: Este archivo contiene el análisis completo, incluyendo la preparación de datos, entrenamiento de modelos de regresión lineal y evaluación de riesgos y beneficios.
+- **`sprint11.ipynb`**: Este archivo contiene el análisis completo, incluyendo la preparación de datos, entrenamiento de modelos de regresión lineal y evaluación de riesgos y beneficios.
 - **`geo_data_0.csv`**, **`geo_data_1.csv`**, **`geo_data_2.csv`**: Estos son los conjuntos de datos utilizados para el análisis, que contienen información sobre los pozos petroleros.
 
 ## Instrucciones para la Revisión
