@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo identificar los mejores lugares para abrir 200
 
 He subido mi proyecto a GitHub y me encantaría recibir tus comentarios. Puedes revisar el análisis en el archivo `sprint11.ipynb`. Aquí está el enlace al repositorio:
 
-[Revisar Proyecto en GitHub](https://github.com/DixPa/Giant-project)
+[Revisar Proyecto en GitHub](https://github.com/DixPa/OilyGiant-project)
 
 Por favor, presta atención a los siguientes puntos:
 
